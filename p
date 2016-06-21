@@ -22,4 +22,6 @@ if [[ ! -f ./target/debug/p ]]; then
   exit 1
 fi
 
-exec ./target/debug/p "$@"
+cd ..
+
+exec ./command/target/debug/p "$@"

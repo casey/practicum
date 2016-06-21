@@ -34,3 +34,4 @@ p next                  # go to the next exercise
 ## wishlist
 
 - contribution to command and modules should be supported by tooling
+- rcers might be interested in helping
